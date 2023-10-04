@@ -1,3 +1,3 @@
 git add .
 git commit -m 'lahawla'
-git push
+git push -f
